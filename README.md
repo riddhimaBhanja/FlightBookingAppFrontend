@@ -26,8 +26,14 @@ It is designed with **enterprise-grade architecture**, **JWT-based security**, a
 
 https://github.com/user-attachments/assets/ac14ca69-fe02-418f-bbe2-d8bbde4c441c
 
+---
+
+##  Admin Account Features Demo
 
 
+https://github.com/user-attachments/assets/dd210f38-28e9-4b92-af24-b6bc1cc9c7ea
+
+---
 ##  Project Structure
 
 ```text
