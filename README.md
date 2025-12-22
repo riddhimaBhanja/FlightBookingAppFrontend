@@ -34,6 +34,17 @@ https://github.com/user-attachments/assets/ac14ca69-fe02-418f-bbe2-d8bbde4c441c
 https://github.com/user-attachments/assets/dd210f38-28e9-4b92-af24-b6bc1cc9c7ea
 
 ---
+
+##  Password Expiration Demo
+
+
+
+https://github.com/user-attachments/assets/745728b5-cac1-4a5f-92a8-3c1f1a5f2212
+
+
+
+---
+
 ##  Project Structure
 
 ```text
