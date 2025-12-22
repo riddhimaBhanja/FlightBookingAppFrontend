@@ -21,6 +21,29 @@ It is designed with **enterprise-grade architecture**, **JWT-based security**, a
 *  Reactive programming using RxJS
 
 ---
+##  Project Structure
+
+```text
+flight-booking-app/
+│
+├── src/
+│   ├── app/
+│   │   ├── auth/              # Login & Registration
+│   │   ├── user/              # User features
+│   │   ├── admin/             # Admin dashboard
+│   │   ├── shared/            # Shared services & guards
+│   │   ├── core/              # Interceptors & utilities
+│   │   └── app.routes.ts
+│   │
+│   ├── assets/                # Images & animations
+│   ├── environments/          # Environment configs
+│   ├── styles.scss
+│   └── main.ts
+│
+├── angular.json
+├── package.json
+└── README.md
+```
 
 ## Features
 
@@ -158,29 +181,7 @@ ng serve
 
 ---
 
-##  Project Structure
 
-```text
-flight-booking-app/
-│
-├── src/
-│   ├── app/
-│   │   ├── auth/              # Login & Registration
-│   │   ├── user/              # User features
-│   │   ├── admin/             # Admin dashboard
-│   │   ├── shared/            # Shared services & guards
-│   │   ├── core/              # Interceptors & utilities
-│   │   └── app.routes.ts
-│   │
-│   ├── assets/                # Images & animations
-│   ├── environments/          # Environment configs
-│   ├── styles.scss
-│   └── main.ts
-│
-├── angular.json
-├── package.json
-└── README.md
-```
 
 ---
 
