@@ -45,6 +45,30 @@ https://github.com/user-attachments/assets/745728b5-cac1-4a5f-92a8-3c1f1a5f2212
 
 ---
 
+##  Cancel Booking
+
+![cancel booking](https://github.com/user-attachments/assets/6bb25f7a-b665-4419-9a9b-81f0d1695705)
+
+##  Search Flight
+![search_flight](https://github.com/user-attachments/assets/ac02df4a-7634-481d-950a-2d127c46fe32)
+
+##  Validation Errors
+
+##  password expiry validation error
+![password_expiry_validation2](https://github.com/user-attachments/assets/ae82164b-3396-4a2f-aede-28f4fea3a407)
+![password_expiry_validation](https://github.com/user-attachments/assets/b676bc23-71f4-455d-8055-b771fd79555c)
+
+##  add flight validation error
+![add_flight_validation](https://github.com/user-attachments/assets/be39070c-5cb6-4156-828c-bcb9f7e736c4)
+
+##  change password for user validation error
+![change_password_validation](https://github.com/user-attachments/assets/02c3fafe-24ad-43dd-9355-63649dad6c98)
+
+##  Booking Flight validation error
+
+![book_flight_validationerror](https://github.com/user-attachments/assets/b4831592-f218-49df-ab54-0dd10bfa3ec2)
+
+---
 ##  Project Structure
 
 ```text
