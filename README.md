@@ -21,6 +21,13 @@ It is designed with **enterprise-grade architecture**, **JWT-based security**, a
 *  Reactive programming using RxJS
 
 ---
+##  User Account Features Demo
+
+
+https://github.com/user-attachments/assets/ac14ca69-fe02-418f-bbe2-d8bbde4c441c
+
+
+
 ##  Project Structure
 
 ```text
