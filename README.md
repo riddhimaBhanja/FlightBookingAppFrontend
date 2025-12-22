@@ -124,6 +124,10 @@ flight-booking-app/
 ├── tsconfig.json
 └── README.md
 
+```
+---
+
+
 ## Features
 
 ###  User Features
@@ -138,7 +142,6 @@ flight-booking-app/
 * Secure logout
 
 ---
-
 ###  Admin Features
 
 * Admin-exclusive dashboard
