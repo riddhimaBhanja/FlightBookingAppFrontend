@@ -94,25 +94,34 @@ https://github.com/user-attachments/assets/745728b5-cac1-4a5f-92a8-3c1f1a5f2212
 
 ```text
 flight-booking-app/
-│
 ├── src/
 │   ├── app/
-│   │   ├── auth/              # Login & Registration
-│   │   ├── user/              # User features
-│   │   ├── admin/             # Admin dashboard
-│   │   ├── shared/            # Shared services & guards
-│   │   ├── core/              # Interceptors & utilities
-│   │   └── app.routes.ts
-│   │
-│   ├── assets/                # Images & animations
-│   ├── environments/          # Environment configs
-│   ├── styles.scss
-│   └── main.ts
-│
+│   │   ├── components/
+│   │   │   ├── home/
+│   │   │   ├── login/
+│   │   │   ├── register/
+│   │   │   ├── search/
+│   │   │   ├── inventory/
+│   │   │   ├── booking-component/
+│   │   │   ├── cancel/
+│   │   │   ├── profile/
+│   │   │   └── navbar/
+│   │   ├── services/
+│   │   │   ├── auth.ts
+│   │   │   ├── password.ts
+│   │   │   └── service.ts
+│   │   ├── app.config.ts
+│   │   ├── app.html
+│   │   ├── app.css
+│   │   ├── app.ts
+│   │   └── app.route.ts
+│   ├── index.html
+│   ├── main.ts
+│   └── styles.scss
 ├── angular.json
 ├── package.json
+├── tsconfig.json
 └── README.md
-```
 
 ## Features
 
