@@ -62,11 +62,14 @@ https://github.com/user-attachments/assets/745728b5-cac1-4a5f-92a8-3c1f1a5f2212
 ![search_flight](https://github.com/user-attachments/assets/ac02df4a-7634-481d-950a-2d127c46fe32)
 
 
-![seat selection validation](https://github.com/user-attachments/assets/cf58f72a-9e45-48f8-9828-6051dc07baeb)
 
 
 ##  Seat Booking & its Validation
 ![seat selection](https://github.com/user-attachments/assets/bb390482-7bdd-4d5a-a4c9-1eecebfebd2f)
+
+
+![seat selection validation](https://github.com/user-attachments/assets/7a2875af-646c-4bb0-a3fe-acd253b29f63)
+
 
 
 ##  Validation Errors
