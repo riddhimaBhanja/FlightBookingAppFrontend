@@ -71,7 +71,13 @@ https://github.com/user-attachments/assets/745728b5-cac1-4a5f-92a8-3c1f1a5f2212
 ![seat selection validation](https://github.com/user-attachments/assets/7a2875af-646c-4bb0-a3fe-acd253b29f63)
 
 
+##  Drop down in source and destination
 
+
+
+https://github.com/user-attachments/assets/3592c05a-c180-4c09-97c7-43b3942f7a3e
+
+---
 ##  Validation Errors
 
 ##  password expiry validation error
